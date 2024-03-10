@@ -7,4 +7,4 @@ i = 0
 def get_variable_i():
     return i
 
-eel.start("main.html", size=(700, 700))
+eel.start("index.html", size=(700, 700))
