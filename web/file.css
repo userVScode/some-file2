@@ -1,0 +1,36 @@
+
+body{
+   background: linear-gradient(to right, #d56937, #cbc863);
+}
+input{
+    width: 300px;
+    height: 40px;
+    border-radius: 6px;
+    border-color: greenyellow;
+    background-color: greenyellow; 
+    margin: 30px; 
+    font-size: 25px;
+}
+.blok{
+    position: absolute;
+    left: 100px;
+}
+.button{
+    width: 50px;  
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
+#button1{
+   
+    width: 100px;
+}
+#button2{
+    width: 100px;
+}
+
+
+
+
+
+
